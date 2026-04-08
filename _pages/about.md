@@ -1,8 +1,17 @@
 ---
 permalink: /about/
-title: "About"
+title: "à propos de ce site"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Je ne suis pas développeur, encore moins graphiste. Mais je n'avais envie payer un prestataire pour présenter ma petite activité. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Après moultes documentations, j'ai utilisé Jekyll pour créer l'architecture du site, avec le template 'Minimal Mistakes' sous licence libre. 
+
+Le site est hébergé Github Pages, gratuitement.
+
+Je ne paye que le nom de domaine que j'ai acheté chez un "registar" (en l'occurrence, OVH).
+
+
+
+Ce site ressemble à ce que je souhaite proposer : rien de révolutionnaire, juste quelque chose qui fait le job.
+

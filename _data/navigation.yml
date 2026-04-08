@@ -1,9 +1,27 @@
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+# barre de menu horizontale en haut
+main: 
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+     
+  - title : "Contact"
+    url: /contact/
+    
+  - title: "à propos de ce site"
     url: /about/
+ # barre de menu verticale à gauche
+docs: 
+  - title: "Qui ?"
+    url: /intro/
+    
+  - title: "Quoi ?"
+    url: /services/
+    
+  - title: "Comment ?"
+    url: /fonctionnement/
+    
+  - title: "Combien ?"
+    url: /tarifs/
