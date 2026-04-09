@@ -17,11 +17,12 @@ url: "http://seboservices.fr"
 locale: "fr-FR"
 repository: "Seb01110/Seb01110.github.io"
 
-title: "Site vitrine"
+title: "Site vitrine de Seboservice"
+masthead-title: "Accueil"
 #logo: assets/images/seboservices-high-resolution-logo-grayscale-transparent.png
 email: seb-o-services@orange.fr
-description: >- 
- " Site vitrine de Seboservice ; "
+description: |
+ " Site vitrine de Seboservice"
  " Services administratifs et techniques à Plateau d'Hauteville 01110"
  " Prestations de services dans le Bugey"
   
@@ -121,7 +122,7 @@ defaults:
     values:
       layout: single
       header :
-        image: /assets/images//home/seboseb/Seb01110.github.io/assets/images/seboservices-high-resolution-logo-grayscale-transparent.png
+        image: /assets/images//home/seboseb/Seb01110.github.io/assets/images/seboservices-logo.png
       author_profile: false
       read_time: false
       comments: false
