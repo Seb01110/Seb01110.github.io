@@ -1,6 +1,5 @@
 ---
 title: Coordonnées
-categories: "contact"
 permalink: /contact/
 layout: single
 author_profile: true

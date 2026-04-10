@@ -1,6 +1,5 @@
 ---
 title: Comment fonctionne Seboservices ?
-categories: "fonctionnement"
 permalink: /fonctionnement/
 layout: single
 author_profile: false

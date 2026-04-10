@@ -1,7 +1,6 @@
 ---
 title: Qui est Seboservices ?
-categories: "intro"
-permalink: /intro/
+permalink: /presentation/
 layout: single
 author_profile: false
 toc: true

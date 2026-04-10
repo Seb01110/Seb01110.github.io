@@ -1,6 +1,5 @@
 ---
 title: Tarifs
-categories: "tarifs"
 permalink: /tarifs/
 layout: single
 author_profile: false

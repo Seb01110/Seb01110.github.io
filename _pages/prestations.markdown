@@ -1,7 +1,6 @@
 ---
 title: Que propose Seboservices ?
-categories: "services"
-permalink: /services/
+permalink: /prestations/
 layout: single
 author_profile: false
 toc: true
