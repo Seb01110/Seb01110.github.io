@@ -5,15 +5,15 @@ author_profile: false
 toc: true
 ---
 
-Je ne suis pas développeur, encore moins graphiste. Mais je n'avais envie payer un prestataire pour présenter ma petite activité. Je ne voulais pas non plus utiliser une solution "gratuite" farcie de pubs et de trackers.
+Je ne suis pas développeur, encore moins graphiste. Mais je n'avais envie payer un prestataire pour présenter ma petite activité. Je ne voulais pas non plus utiliser une solution "gratuite" farcie de pubs et de trackers, sur laquelle je n'aurais eu aucun contrôle.
 
-Après moultes documentations, j'ai utilisé Jekyll pour créer l'architecture du site, avec le template 'Minimal Mistakes' sous licence libre. 
+Après une phase de documentation, j'ai utilisé Jekyll pour créer l'architecture du site, avec le template 'Minimal Mistakes' sous licence libre. 
 
-Le site est hébergé Github Pages, gratuitement.
+Le site est hébergé sur Github Pages, gratuitement. Il m'appartient, je le mets à jour comme je veux et j'en ai une copie sur ma machine.
 
-Je ne paye que le nom de domaine que j'ai acheté chez un "registar" (en l'occurrence, OVH), pour 7 euros annuels.
+Je paye uniquement que le nom de domaine que j'ai acheté chez un "registar" (OVH), pour 7 euros annuels.
 
 
 
-Ce site ressemble à ce que je souhaite proposer : rien de révolutionnaire, juste quelque chose économique qui fait correctement le job.
+Ce site ressemble à ce que je souhaite proposer : rien de révolutionnaire, juste une solution simple qui fait correctement le job.
 

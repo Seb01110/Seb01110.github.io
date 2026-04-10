@@ -11,10 +11,9 @@ Ceci est un commentaire , que j'ai fait en HTML car je ne sais pas le faire en m
 -->
 
 ## Présentation
-Seboservice est le nom commercial de l'entreprise individuelle de Sébastien BOURGEOIS.
+Seboservice est le nom commercial de l'entreprise individuelle de Sébastien BOURGEOIS. J'exerce sous statut de micro-entreprise, en complément d'un emploi de comptable à temps partiel.
 
-J'exerce sous statut de micro-entreprise, en complément d'un emploi de comptable.
-
+## Mon expérience
 J'ai exercé plusieurs métiers (enseignant, salarié de magasin, chargé d'affaires, secrétaire, comptable). Je connais le monde de l'entreprise, même si je connais mieux les petites que les grosses.
 
 J'avais récemment deux employeurs ; j'en ai quitté un dans le but de varier mes missions et de tester le statut de travailleur indépendant.

@@ -15,7 +15,9 @@ Le plus simple :
 2. Je vous fais un devis ;
 3. Si nous sommes d'accord, vous paierez exactement ce qui est chiffré.
 
-### Un petit exemple ?
+### Des exemples ?
 
 Pour une prestation de secrétariat d'une journée de 7 h dans vos locaux à moins de 10 km, je facture 220 € HT. Comme je ne suis pas soumis à la TVA, cela revient à 220 € TTC.
+
+Le tarif d'une mission de "sniper de fautes" commence à 20€ TTC pour un document court.
 

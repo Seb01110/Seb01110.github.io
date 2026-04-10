@@ -8,20 +8,20 @@ toc: true
 
 Je propose des prestations dans les domaines suivants : administratif, commercial, technique, préparation comptable.
 
-## Correcteur à la tâche
+## Correcteur à la tâche pour ne pas faire tache
 `Avez-vous correctement vérifiez le participe passé ?`
 
-Si la phrase ci-dessus ne vous fait pas saigner les yeux, vous avez certainement besoin de quelqu'un pour relire vos documents de communication. Une faute d'accord sur une affiche ou un site web, c'est comme une tâche de sauce tomate sur la chemise le jour de la présentation de votre projet à vos futurs partenaires financiers...
+Si la phrase ci-dessus ne vous fait pas saigner les yeux, vous avez certainement besoin de quelqu'un pour relire vos documents de communication. Une faute d'accord sur une affiche ou un site web, c'est comme une tache de sauce tomate sur la chemise le jour de la présentation de votre projet à vos futurs partenaires financiers...
 
-Je propose des forfaits à la tâche, document par document, même si vous ne me confiez aucune autre mission de secrétariat.
+La correction fait partie des missions de secrétariat, mais vous pouvez aussi me confier uniquement cette mission, à la tâche.
 
 ## Secrétariat / gestion administrative
 - Communication auprès des administrations et organismes sociaux ; 
 - Rédaction et correction (orthographe, syntaxe) de courriers et de supports de communication ;
 - Montage et suivi de dossiers spécifiques : certifications RGE ;
 - Demandes d’autorisation de voirie, divers CERFA...
-- Aide à la rédaction du DUERP : 
-- Archivage de vos documents administratifs et comptables, sur papier ou support numériques (chez vous !)
+- Aide à la rédaction du DUERP ;
+- Archivage de vos documents administratifs et comptables sur papier ou support numériques (chez vous !)
 
 ## Secrétariat / social
 - Suivi des pointages salariés ;
@@ -35,7 +35,7 @@ Je propose des forfaits à la tâche, document par document, même si vous ne me
 ## Secrétariat / préparation comptable
 - Communication avec le cabinet comptable / l'expert comptable ;
 - Transmission en temps et en heure de tous les documents utiles aux déclarations (factures clients ou écritures comptables issues de votre logiciel, encaissements, factures fournisseur, etc.) ;
-- **Attention !** Un prestataire indépendant *n'a pas le droit* de faire la comptabilité proprement dite (même de la simple saisie de factures sur votre logiciel comptable) ; sauf bien sûr s'il est expert-comptable ou salarié par un expert-comptable dans le cadre de cette mission. 
+- **Attention !** Un prestataire extérieur **n'a pas le droit** de faire votre comptabilité (même de la simple saisie de factures sur votre logiciel comptable) ; sauf bien sûr s'il est expert-comptable ou salarié par un expert-comptable.
 
 ## Aide à la gestion
 Selon vos besoins et en co-construction, mise en place de tableaux de bord Excel pour suivre les projets, les horaires des salariés, la rentabilité, la trésorerie...
