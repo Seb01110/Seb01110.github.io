@@ -10,7 +10,7 @@ toc: true
 Ceci est un commentaire , que j'ai fait en HTML car je ne sais pas le faire en markdown...
 -->
 
-## Présentation
+
 Seboservice est le nom commercial de l'entreprise individuelle de Sébastien BOURGEOIS. J'exerce sous statut de micro-entreprise, en complément d'un emploi de comptable à temps partiel.
 
 ## Mon expérience
