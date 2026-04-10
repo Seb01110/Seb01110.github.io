@@ -8,6 +8,12 @@ toc: true
 
 Je propose des prestations dans les domaines suivants : administratif, commercial, technique, préparation comptable.
 
+## Correcteur à la tâche
+'Avez-vous correctement vérifiez l'orthographe ?'
+Si la phrase ci-dessus ne vous fait pas saigner les yeux, vous avez certainement besoin de quelqu'un pour relire vos documents de communication. Une faute d'accord sur une affiche ou un site web, c'est comme une tâche de sauce tomate sur la chemise le jour de la présentation de votre projet à vos futurs partenaires financiers...
+
+Je propose des forfaits à la tâche, document par document, même si vous ne me confiez aucune autre mission de secrétariat.
+
 ## Secrétariat / gestion administrative
 - Communication auprès des administrations et organismes sociaux ; 
 - Rédaction et correction (orthographe, syntaxe) de courriers et de supports de communication ;
@@ -21,8 +27,8 @@ Je propose des prestations dans les domaines suivants : administratif, commercia
 - Préparation des variables de paie pour le cabinet.
 
 ## Secrétariat / commercial
-- Saisie des devis ;
-- Facturation  ;
+- Saisie des devis sur votre logiciel ERP;
+- Facturation (idem) ;
 - Relance clients sur devis et sur factures.
 
 ## Secrétariat / préparation comptable
@@ -34,7 +40,7 @@ Je propose des prestations dans les domaines suivants : administratif, commercia
 Selon vos besoins et en co-construction, mise en place de tableaux de bord Excel pour suivre les projets, les horaires des salariés, la rentabilité, la trésorerie...
 
 ## Prestations techniques
-J'aime bien aller dehors, pour changer ! Je propose entre autres les prestations suivantes : 
+J'aime bien aller dehors, pour changer... Je propose entre autres les prestations suivantes : 
 - Métrés : mesures (au mètre, au laser, ou sur relevés de drones) et calculs de surfaces pour chiffrer des travaux ; 
 - Relevés divers : pour un de mes clients, je fais des relevés de débit dans les cours d'eau, avec son matériel et son protocole.
 - Inventaires : ce n'est pas toujours facile, ça ne tombe pas forcément au bon moment... vous pourriez avoir besoin d'aide pour arpenter l'entrepôt, lister ce qui s'y trouve et y affecter une valeur d'achat.

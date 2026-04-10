@@ -15,10 +15,10 @@ main:
  # barre de menu verticale à gauche
 docs: 
   - title: "Qui ?"
-    url: /intro/
+    url: /presentation/
     
   - title: "Quoi ?"
-    url: /services/
+    url: /prestations/
     
   - title: "Comment ?"
     url: /fonctionnement/
