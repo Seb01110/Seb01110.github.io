@@ -11,9 +11,9 @@ Après une phase de documentation, j'ai utilisé Jekyll pour créer l'architectu
 
 Le site est hébergé sur Github Pages, gratuitement. Il m'appartient, je le mets à jour comme je veux et j'en ai une copie sur ma machine.
 
-Je paye uniquement que le nom de domaine que j'ai acheté chez un "registar" (OVH), pour 7 euros annuels.
+Je paye uniquement le nom de domaine que j'ai acheté chez un "registar" (OVH), pour 7 euros annuels.
 
 
 
-Ce site ressemble à ce que je souhaite proposer : rien de révolutionnaire, juste une solution simple qui fait correctement le job.
+Ce site ressemble à ce que je souhaite proposer : une solution économique qui fait correctement le job.
 
