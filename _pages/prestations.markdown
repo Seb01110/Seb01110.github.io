@@ -9,7 +9,8 @@ toc: true
 Je propose des prestations dans les domaines suivants : administratif, commercial, technique, préparation comptable.
 
 ## Correcteur à la tâche
-'Avez-vous correctement vérifiez l'orthographe ?'
+`Avez-vous correctement vérifiez le participe passé ?`
+
 Si la phrase ci-dessus ne vous fait pas saigner les yeux, vous avez certainement besoin de quelqu'un pour relire vos documents de communication. Une faute d'accord sur une affiche ou un site web, c'est comme une tâche de sauce tomate sur la chemise le jour de la présentation de votre projet à vos futurs partenaires financiers...
 
 Je propose des forfaits à la tâche, document par document, même si vous ne me confiez aucune autre mission de secrétariat.
