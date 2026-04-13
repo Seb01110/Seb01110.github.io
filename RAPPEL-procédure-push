@@ -1,9 +1,9 @@
-seboseb@PC-Seb:~$ cd Seb01110.github.io
+~$ cd Seb01110.github.io
 
-seboseb@PC-Seb:~/Seb01110.github.io$ git add .
+~/Seb01110.github.io$ git add .
 
-seboseb@PC-Seb:~/Seb01110.github.io$ git commit -m "Modifs avant lancement"
+~/Seb01110.github.io$ git commit -m "Description modifs"
 
-seboseb@PC-Seb:~/Seb01110.github.io$ 
+~/Seb01110.github.io$ 
 
 

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: "http://seboservices.fr"
+url: "https://seboservices.fr"
 locale: "fr-FR"
 repository: "Seb01110/Seb01110.github.io"
 
