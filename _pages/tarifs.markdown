@@ -21,3 +21,4 @@ Pour une prestation de secrétariat d'une journée de 7 h dans vos locaux à moi
 
 Le tarif d'une mission de "sniper de fautes" commence à 20€ TTC pour un document court.
 
+Pour toute question, n'hésitez pas à [me contacter.](https://seboservices.fr/contact/)
