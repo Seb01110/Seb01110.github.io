@@ -122,7 +122,8 @@ defaults:
     values:
       layout: single
       header :
-        image: /assets/images//home/seboseb/Seb01110.github.io/assets/images/seboservices-logo.png
+        image: "assets/images/seboservices-logo.png"
+# /assets/images//home/seboseb/Seb01110.github.io/assets/images/seboservices-logo.png
       author_profile: false
       read_time: false
       comments: false
