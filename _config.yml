@@ -17,12 +17,12 @@ url: "https://seboservices.fr"
 locale: "fr-FR"
 repository: "Seb01110/Seb01110.github.io"
 
-title: "Site vitrine de Seboservice"
+title: "Site vitrine de Seboservices"
 masthead-title: "Accueil"
 #logo: assets/images/seboservices-high-resolution-logo-grayscale-transparent.png
 email: seb-o-services@orange.fr
 description: |
- " Site vitrine de Seboservice"
+ " Site vitrine de Seboservices"
  " Services administratifs et techniques à Plateau d'Hauteville 01110"
  " Prestations de services dans le Bugey"
   
@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "Seb"
   avatar : "/assets/images/yoda.jpg"
-  bio    : "Couteau suisse de la paperasse, option sabre laser"
+  bio    : "Couteau suisse option sabre laser"
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"

@@ -6,14 +6,6 @@ main:
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
-     
-  - title : "Contact"
-    url: /contact/
-    
-  - title: "à propos de ce site"
-    url: /about/
- # barre de menu verticale à gauche
-docs: 
   - title: "Qui ?"
     url: /presentation/
     
@@ -24,4 +16,13 @@ docs:
     url: /fonctionnement/
     
   - title: "Combien ?"
-    url: /tarifs/
+    url: /tarifs/  
+
+ # barre de menu verticale à gauche
+docs:    
+
+  - title : "Contact"
+    url: /contact/
+    
+  - title: "à propos de ce site"
+    url: /about/
