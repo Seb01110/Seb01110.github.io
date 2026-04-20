@@ -5,7 +5,7 @@ author_profile: false
 toc: false
 ---
 
-Pour présenter ma modeste activité, je voulais un site basique contenant les informations essentielles. Mon besoin étant limité, je ne souhaitais pas me payer les services d’un pro. Mais je souhaitais aussi éviter les plateformes gratuites qui gardent la propriété des contenus publiés et se rémunèrent avec de la publicité pour les visiteurs.
+Pour présenter ma modeste activité, je voulais un site basique contenant les informations essentielles. Mon besoin étant limité, je ne souhaitais pas me payer les services d’un pro. Mais je tenais à éviter les plateformes gratuites qui gardent la propriété des contenus publiés et se rémunèrent avec de la publicité pour les visiteurs.
 
 Après une phase de documentation, j’ai choisi Jekyll pour créer l’architecture du site. C’est un logiciel open source fonctionnant en ligne de commande sous Linux. J’y ai adjoint le template ‘Minimal Mistakes’ sous licence libre, afin de lui donner une apparence conforme à mon souhait.
 
