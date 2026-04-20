@@ -7,31 +7,31 @@ toc: true
 ---
 
 <!-- 
-Ceci est un commentaire , que j'ai fait en HTML car je ne sais pas le faire en markdown...
+Ceci est un commentaire en HTML car je ne sais pas le faire en markdown...
 -->
 
+Seboservice est le nom commercial de l'entreprise individuelle de Sébastien BOURGEOIS. Je  travaille sous statut de micro-entreprise en complément d'un emploi de comptable à temps partiel. 
 
-Seboservice est le nom commercial de l'entreprise individuelle de Sébastien BOURGEOIS. Je  travaille sous statut de micro-entreprise en complément d'un emploi de comptable à temps partiel. Je propose des services dont le détail se trouve dans la [page suivante](https://seboservices.fr/prestations/). 
+## À qui s’adresse Seboservices ?
+- Aux petites entreprises et aux travailleurs indépendants :
+  - pour un besoin ponctuel : surcroît d'activité, remplacement de congés, certification Qualibat, contrôle fiscal, etc. ;
+  - pour un besoin difficile à couvrir avec une embauche, par exemple 1 journée de travail par mois.
+  Le détail de mes prestations aux entreprises se trouve [page suivante](https://seboservices.fr/prestations/).  
+- Aux particuliers pour des services variés allant de l’aide administrative aux petits bricolages ;
+- Aux collectivités, sur demande.
 
-## Mon expérience
-J'ai exercé plusieurs métiers (enseignant, salarié de magasin, chargé d'affaires, secrétaire-comptable, comptable), dans des structures variées (entreprise artisanale, industrie, association, milieu hospitalier).
+Avantage pour les deux dernières catégories : je ne facture pas de TVA.
 
-## A qui s'adressent mes prestations ?
-Principalement aux petites entreprises et aux travailleurs indépendants qui manquent de temps pour la paperasse ou qui ont un besoin spécifique (certification qualité, contrôle fiscal...), ou dont la secrétaire est en congés maternité ; bref, quand il y a besoin d'un "coup de collier".
+## Zone d’intervention
+J’interviens en périphérie de ma commune d’implantation, Plateau d’Hauteville (01110). 
+Concrètement, je peux me déplacer dans le Valromey, la combe du Val, à Belley, Culoz, Ambérieu-en-Bugey, Oyonnax, Nantua, Valserhône…
 
-Je peux aussi travailler ponctuellement pour les collectivités ou pour des particuliers. Avantage pour ces deux catégories : je ne facture pas de TVA.
+Je propose aussi des prestations en **télétravail** : de nos jours, beaucoup de logiciels sont en SAAS et ne nécessitent pas d’être exécutés sur une machine précise. Si vous travaillez en 100 % dématérialisé, ce sera facile. Si vous adorez les gros classeurs, on oublie.
 
-## Zone géographique 
-J'interviens en périphérie de mon lieu d'implantation, c'est à dire la commune de Plateau d'Hauteville (01110).
-Concrètement , je peux me déplacer dans le Valromey, dans la combe du Val, à Belley, Culoz, Ambérieu-en-Bugey, Oyonnax, Nantua, Valserhône...
+## Mes compétences
+Après une formation généraliste (Sciences-Po Grenoble), j’ai exercé plusieurs métiers (enseignant, employé de magasin, chargé d’affaires, secrétaire-comptable, comptable), dans des structures variées (entreprise artisanale, industrie, association, milieu hospitalier). Mon expérience salariée couvre toutes les tâches que je propose comme travailleur indépendant.
 
-Je propose aussi des prestations en **télétravail** : de nos jours, beaucoup de logiciels sont en SAAS et ne nécessitent pas d'être exécutés sur une machine précise. Si vous travaillez en 100 % dématérialisé, ce sera facile. Si vous adorez les gros classeurs, on oublie.
-
-Pour toute question, n'hésitez pas à [me contacter.](https://seboservices.fr/contact/)
-
-
-
-
+Pour toute question, n'hésitez pas à [me contacter](https://seboservices.fr/contact/).
 
 
 

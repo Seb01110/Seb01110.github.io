@@ -6,62 +6,62 @@ author_profile: false
 toc: true
 ---
 
-Je propose des prestations dans les domaines suivants : administratif, commercial, technique, préparation comptable.
+Pour les entreprises et les indépendants, mes prestations concernent le secrétariat, l'aide à la gestion ainsi que certains actes techniques. Je reste aussi ouvert à d'autres publics : particuliers et collectivités.
 
-## Correcteur à la tâche pour ne pas faire tache
-`Avez-vous correctement vérifiez le participe passé ?`
-
-Si la phrase ci-dessus ne vous fait pas saigner les yeux, vous avez certainement besoin de quelqu'un pour relire vos documents de communication. Une faute d'accord sur une affiche ou un site web, c'est comme une tache de sauce tomate sur la chemise le jour de la présentation de votre projet à vos futurs partenaires financiers...
-
-La correction fait partie des missions de secrétariat, mais vous pouvez aussi me confier uniquement cette mission, à la tâche.
-
-## Secrétariat / gestion administrative
+## Pour les entreprises et les travailleurs indépendants
+### Secrétariat 
+#### Gestion administrative
 - Communication auprès des administrations et organismes sociaux ; 
-- Rédaction et correction (orthographe, syntaxe) de courriers et de supports de communication ;
-- Montage et suivi de dossiers spécifiques : certifications RGE ;
-- Demandes d’autorisation de voirie, divers CERFA...
+- Rédaction ou correction de vos courriers et supports de communication ;
+- Montage de dossiers spécifiques : par exemple, certifications RGE ;
+- Demandes d’autorisation de voirie ;
 - Aide à la rédaction du DUERP ;
-- Archivage de vos documents administratifs et comptables sur papier ou support numériques (chez vous !)
+- Archivage de vos documents sur papier ou support numériques (chez vous).
 
-## Secrétariat / social
+#### Correcteur à la tâche
+`Avez-vous correctement vérifiez le participe passé ?`
+Si la phrase ci-dessus ne vous fait pas saigner les yeux, vous avez certainement besoin d'aide pour relire vos documents de communication. Une faute d’accord ou de conjugaison, c’est comme une tache de sauce sur la chemise : certains ne s'en formalisent pas, d'autres y voient un manque de professionnalisme.
+La correction fait partie des missions habituelles de secrétariat mais je peux aussi travailler à la tâche.
+Pour être honnête, ChatGPT et Claude font ce travail gratuitement ; mais comme ils sont nourris de textes humains, ils relaient aussi certaines formulations incorrectes.
+
+#### Social
 - Suivi des pointages salariés ;
 - Préparation des variables de paie pour le cabinet.
 
-## Secrétariat / commercial
+#### Commercial
 - Saisie des devis sur votre logiciel ERP;
 - Facturation (idem) ;
 - Relance clients sur devis et sur factures.
 
-## Secrétariat / préparation comptable
+#### Préparation comptable
 - Communication avec le cabinet comptable / l'expert comptable ;
 - Transmission en temps et en heure de tous les documents utiles aux déclarations (factures clients ou écritures comptables issues de votre logiciel, encaissements, factures fournisseur, etc.) ;
-- **Attention !** Un prestataire extérieur **n'a pas le droit** de faire votre comptabilité (même de la simple saisie de factures sur votre logiciel comptable) ; sauf bien sûr s'il est expert-comptable ou salarié par un expert-comptable.
+- **Attention !** La comptabilité proprement dite est une activité réglementée. Un prestataire indépendant, s'il n'est pas expert-comptable diplômé, n’a pas le droit de faire votre comptabilité, même pour les simples tâches de saisie. Vous gardez le droit de le faire vous même ou de le faire faire par un salarié.
 
-## Aide à la gestion
+### Aide à la gestion
 Selon vos besoins et en co-construction, mise en place de tableaux de bord Excel pour suivre les projets, les horaires des salariés, la rentabilité, la trésorerie...
 
-## Prestations techniques
-J'aime bien aller dehors, pour changer... Je propose entre autres les prestations suivantes : 
-- Métrés : mesures (au mètre, au laser, ou sur relevés de drones) et calculs de surfaces pour chiffrer des travaux ; 
-- Relevés divers : pour un de mes clients, je fais des relevés de débit dans les cours d'eau, avec son matériel et son protocole.
-- Inventaires : ce n'est pas toujours facile, ça ne tombe pas forcément au bon moment... vous pourriez avoir besoin d'aide pour arpenter l'entrepôt, lister ce qui s'y trouve et y affecter une valeur d'achat.
-- Je suis preneur de toute autre idée qui me sortira un peu la tête de mon écran.
+### Prestations techniques
+J’aime varier les plaisirs et j’ai une expérience professionnelle diversifiée. Voici d’autres services que je propose.
+- Chiffrages : métrés, calculs de surfaces, chiffrages de matériaux.
+- Mesures diverses : pour un de mes clients, je fais des relevés de débit dans les cours d’eau, avec son matériel et son protocole.
+- Inventaires : ça ne tombe jamais au bon moment ! Je peux vous aider à arpenter l’entrepôt, lister ce qui s’y trouve et y affecter une valeur.
+- Autres prestations non réglementées : sur simple demande, si je m’en sens capable. 
 
+## Pour les particuliers
+- Aide administrative ;
+- Bricolages "multi-services" sans empiéter sur le domaine des corps de métier de type maçon, électricien, plombier ; 
+- Accompagnement et formation à l'usage des outils numériques ;
+- Toute autre demande, selon mes disponibilités et si je m'en sens capable.
 
+## Pour les collectivités
+Les collectivité ne sont pas mon coeur de cible. Cependant, j'ai déjà répondu à une demande un peu inhabituelle d'une commmune de l'Ain ; mon profil "couteau suisse" peut donc intéresser occasionnellement. Je suis ouvert à toute proposition.
 
-Pour toute question, n'hésitez pas à [me contacter.](https://seboservices.fr/contact/)
-
-
+Pour toute question, n'hésitez pas à [me contacter](https://seboservices.fr/contact/).
 
 <!-- 
 Ceci est un commentaire , que j'ai fait en HTML car je ne sais pas le faire en markdown...
 -->
-
-
-
-
-
-
 
 
 

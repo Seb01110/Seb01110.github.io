@@ -7,18 +7,16 @@ toc: false
 ---
 
 
-Mes tarifs dépendent du nombre d'heures et de mes frais de déplacement. Ils sont dégressifs : un job de deux heures est payé plus cher à l'heure qu'une mission de 3 semaines. 
+Les tarifs dépendent du temps de travail et des frais de déplacement. Ils sont légèrement dégressifs. Le plus simple reste de [me contacter](https://seboservices.fr/contact/) pour un devis. Si nous tombons d’accord, vous paierez exactement ce qui est chiffré.
 
-Le plus simple :
-
-1. Vous m'exposez votre besoin ;
-2. Je vous fais un devis ;
-3. Si nous sommes d'accord, vous paierez exactement ce qui est chiffré.
-
-### Des exemples ?
+### Exemples à titre indicatif
 
 Pour une prestation de secrétariat d'une journée de 7 h dans vos locaux à moins de 10 km, je facture 220 € HT. Comme je ne suis pas soumis à la TVA, cela revient à 220 € TTC.
 
 Le tarif d'une mission de "sniper de fautes" commence à 20€ TTC pour un document court.
 
-Pour toute question, n'hésitez pas à [me contacter.](https://seboservices.fr/contact/)
+Une journée de relevés sur terrain avec 180 km de déplacement est facturée 350 € TTC.
+
+Pour toute question, [contactez-moi !](https://seboservices.fr/contact/)
+
+
