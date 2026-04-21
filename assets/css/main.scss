@@ -4,26 +4,15 @@
 
 @charset "utf-8";
 
+//Seuls les paramètres situés AVANT les @import seront pris en compte pour construire le fichier .css
+
+body {
+  font-size: 1em;
+}
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-/*
-body {
-  font-family: $global-font-family;
-  font-size: $type-size-5;
-}
-*/
 
-/*
-.divider {
-        background-color: white;
-        height: 120px;
-}
-*/
-
-/*
-.divider.line.opacity {
-    opacity: .2;
-}
-*/
 
 
