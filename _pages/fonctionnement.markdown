@@ -32,9 +32,6 @@ Vous pensez avoir besoin de quelqu’un 3 jours par semaine toute l’année ? S
 
 
 Pour toute question, n'hésitez pas à [me contacter.](https://seboservices.fr/contact/)
-<!-- 
-Ceci est un commentaire , que j'ai fait en HTML car je ne sais pas le faire en markdown...
--->
 
 
 
